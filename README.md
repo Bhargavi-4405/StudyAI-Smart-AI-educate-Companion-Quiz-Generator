@@ -118,5 +118,5 @@ if you deploy the backend elsewhere).
    - **Flashcards** — flip cards, mark known, shuffle, track mastery.
    - **Quiz** — choose MCQ / True-False / Short Answer, take it, get scored + weak topics.
    - **Schedule** — generates a 7-day plan that prioritizes topics you got wrong.
-Open your browser and navigate to  file:///C:/Users/Bhargavi/Downloads/studyai-project/studyai/frontend/studyai-demo.html to access the dashboard. 
+Open your browser and navigate to  https://bhargavi-4405.github.io/StudyAI-Smart-AI-educate-Companion-Quiz-Generator/ to access the dashboard. 
 
